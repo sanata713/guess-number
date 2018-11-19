@@ -1,6 +1,3 @@
-//function random(number) {
-//    return Math.ceil(Math.random() * number);
-//}
 let name = prompt('Привет! Как тебя зовут?');
 
 while (name == '' || name == null) {
